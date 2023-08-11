@@ -51,6 +51,11 @@ def main_cal():
 
         elif operator in ('9'):
             num1 = float(input("Number that want to get Tan : "))
+        
+
+            
+
+        
 
     else:
         print("You Enterd Operation is Invalid Operation")
