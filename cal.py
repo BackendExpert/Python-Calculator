@@ -66,13 +66,13 @@ def main_cal():
             print("Division is : ", divide(num1, num2))  
 
         elif operator == '5':
-            print("Square Root is : ", squreRoot(num1, num2))
+            print("Square Root is : ", squreRoot(num1))
 
         elif operator == '6':
             print("Power Value is : ", powerV(num1, num2))
 
         elif operator == '7':
-            print("Sin Value is : ", SinV(num1, num2))
+            print("Sin Value is : ", SinV(num1))
 
         elif operator == '8':
             print("Cos Value is : ", CosV(num1))
