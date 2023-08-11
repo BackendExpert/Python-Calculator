@@ -42,6 +42,9 @@ def main_cal():
         elif operator in ('6'):
             num1 = float(input("Enter First Number : "))
             num2 = float(input("Eenter the number Power Value : "))
+
+        elif operator in ('7'):
+            num1 = float(input("Sin Value is : "))
     else:
         print("You Enterd Operation is Invalid Operation")
 
