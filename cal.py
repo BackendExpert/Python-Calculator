@@ -49,7 +49,7 @@ def main_cal():
         print("7. Sin")
         print("8. Cos")
         print("9. Tan")
-        print("Press 0 to exit Form Calculator")
+        print("Press s to exit Form Calculator")
 
         print("")
         print("--------------------------------------------------------------------")
@@ -57,7 +57,7 @@ def main_cal():
 
         operator = input("Enter Number of Operation (1/2/3/4/5/6/7/8/9) : ")
 
-        if operator == '0':
+        if operator == 's':
             print("Exiting From Calculator...")
             break
 
