@@ -14,6 +14,9 @@ def main_cal():
     print("5. Square Root")
     print("6. Power")
 
+    print("--------------------------------------------------------------------")
+    print("")
+
 
 
 if __name__ == "__main__":
