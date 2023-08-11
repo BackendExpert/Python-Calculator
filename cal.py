@@ -20,6 +20,10 @@ def squreRoot(a):
 def powerV(a, b):
     return math.pow(a,b)
 
+def SinV(a):
+    return math.sin(a)
+
+
 
 
 
