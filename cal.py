@@ -23,7 +23,11 @@ def powerV(a, b):
 def SinV(a):
     return math.sin(a)
 
+def CosV(a):
+    return  math.cos(a)
 
+def TanV(a):
+    return math.tan(a)
 
 
 
