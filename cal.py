@@ -20,7 +20,8 @@ def main_cal():
     operator = input("Enter Number of Operation (1/2/3/4/5/6) : ")
 
     if operator in ('1', '2', '3', '4', '5', '6'):
-
+        if operator in('1', '2'):
+            
     else:
         print("You Enterd Operation is Invalid Operation")
 
