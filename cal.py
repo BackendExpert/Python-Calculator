@@ -28,6 +28,9 @@ def main_cal():
             num1 = float(input("Enter First Number : "))
             num2 = float(input("Enter the Number that want to Multiplied : "))
 
+        elif operator in ('4'):
+            num1 = float(input("Enter First Number : "))
+            num2 = float(input("Eenter the number that want to Divide : "))
     else:
         print("You Enterd Operation is Invalid Operation")
 
