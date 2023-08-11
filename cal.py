@@ -44,14 +44,14 @@ def main_cal():
             num2 = float(input("Eenter the number Power Value : "))
 
         elif operator in ('7'):
-            num1 = float(input("Sin Value is : "))
+            num1 = float(input("Number that want to get Sin : "))
 
         elif operator in ('8'):
-            num1 = float(input("Cos Value is : "))
+            num1 = float(input("Number that want to get : "))
 
         elif operator in ('9'):
-            num1 = float(input("Tan Value is : "))
-            
+            num1 = float(input("Number that want to get : "))
+
     else:
         print("You Enterd Operation is Invalid Operation")
 
