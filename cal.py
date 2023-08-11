@@ -21,7 +21,8 @@ def main_cal():
 
     if operator in ('1', '2', '3', '4', '5', '6'):
         if operator in('1', '2'):
-            
+            num1 = float(input("Enter First Number"))
+            num2 = float(input("Enter Second Number"))
     else:
         print("You Enterd Operation is Invalid Operation")
 
