@@ -23,6 +23,11 @@ def main_cal():
         if operator in('1', '2'):
             num1 = float(input("Enter First Number : "))
             num2 = float(input("Enter Second Number : "))
+
+        elif operator in ('3'):
+            num1 = float(input("Enter First Number : "))
+            num2 = float(input("Enter the Number that want to Multiplied : "))
+
     else:
         print("You Enterd Operation is Invalid Operation")
 
