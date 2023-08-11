@@ -14,6 +14,14 @@ def divide(a, b):
         return "Cannot divide by zero"
     return a / b
 
+def squreRoot(a):
+    return math.sqrt(a)
+
+def powerV(a, b):
+    return a ^ b
+
+
+
 
 def main_cal():
     print("")
