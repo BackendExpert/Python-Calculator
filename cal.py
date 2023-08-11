@@ -13,6 +13,10 @@ def main_cal():
     print("4. Division")
     print("5. Square Root")
     print("6. Power")
+    print("6. Power")
+    print("6. Power")
+    print("6. Power")
+
     print("")
     print("--------------------------------------------------------------------")
     print("")
