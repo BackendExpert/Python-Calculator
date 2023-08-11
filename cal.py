@@ -53,9 +53,20 @@ def main_cal():
             num1 = float(input("Number that want to get Tan : "))
         
 
-            
-
+        if operator == '1':
+            print("Total is : ")
         
+        elif operator == '2':
+            print("Subtraction is : ")
+
+        elif operator == '3':
+            print("Subtraction is : ")
+
+        elif operator == '4':
+            print("Subtraction is : ")  
+
+        elif operator == '5':
+            print("Subtraction is : ")
 
     else:
         print("You Enterd Operation is Invalid Operation")
