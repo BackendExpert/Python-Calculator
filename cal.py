@@ -1,6 +1,8 @@
 import math
 
 def main_cal():
+    print("")
+    print("---------------------------------------------")
     print("--------------------- Scientific Calculator ------------------------")
     print("Operations")
     print("1. Addition")
