@@ -47,10 +47,10 @@ def main_cal():
             num1 = float(input("Number that want to get Sin : "))
 
         elif operator in ('8'):
-            num1 = float(input("Number that want to get : "))
+            num1 = float(input("Number that want to get Cos : "))
 
         elif operator in ('9'):
-            num1 = float(input("Number that want to get : "))
+            num1 = float(input("Number that want to get Tan : "))
 
     else:
         print("You Enterd Operation is Invalid Operation")
