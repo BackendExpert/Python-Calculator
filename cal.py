@@ -17,7 +17,7 @@ def main_cal():
     print("--------------------------------------------------------------------")
     print("")
 
-
+    operator = input("Enter Number of Operation (1/2/3/4/5/6) : ")
 
 if __name__ == "__main__":
     main_cal()
