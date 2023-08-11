@@ -54,31 +54,31 @@ def main_cal():
         
 
         if operator == '1':
-            print("Total is : ")
+            print("Total is : ", add(num1, num2))
         
         elif operator == '2':
-            print("Subtraction is : ")
+            print("Subtraction is : ", add(num1, num2))
 
         elif operator == '3':
-            print("Multiplication is : ")
+            print("Multiplication is : ", add(num1, num2))
 
         elif operator == '4':
-            print("Division is : ")  
+            print("Division is : ", add(num1, num2))  
 
         elif operator == '5':
-            print("Square Root is : ")
+            print("Square Root is : ", add(num1, num2))
 
         elif operator == '6':
-            print("Power Value is : ")
+            print("Power Value is : ", add(num1, num2))
 
         elif operator == '7':
-            print("Sin Value is : ")
+            print("Sin Value is : ", add(num1, num2))
 
         elif operator == '8':
-            print("Cos Value is : ")
+            print("Cos Value is : ", add(num1, num2))
 
         elif operator == '9':
-            print("Tan Value is : ")
+            print("Tan Value is : ", add(num1, num2))
 
     else:
         print("You Enterd Operation is Invalid Operation")
