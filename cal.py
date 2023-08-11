@@ -17,9 +17,9 @@ def main_cal():
     print("--------------------------------------------------------------------")
     print("")
 
-    operator = input("Enter Number of Operation (1/2/3/4/5/6) : ")
+    operator = input("Enter Number of Operation (1/2/3/4/5/6/7/8/9) : ")
 
-    if operator in ('1', '2', '3', '4', '5', '6'):
+    if operator in ('1', '2', '3', '4', '5', '6', '7', '8', '9'):
         if operator in('1', '2'):
             num1 = float(input("Enter First Number : "))
             num2 = float(input("Enter Second Number : "))
