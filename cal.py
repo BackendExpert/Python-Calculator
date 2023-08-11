@@ -44,7 +44,7 @@ def main_cal():
     print("4. Division")
     print("5. Square Root")
     print("6. Power")
-    print("8. Sin")
+    print("7. Sin")
     print("8. Cos")
     print("9. Tan")
 
