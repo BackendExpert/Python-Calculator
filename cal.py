@@ -68,18 +68,18 @@ def main_cal():
         elif operator == '5':
             print("Square Root is : ")
 
-        elif operator == '5':
+        elif operator == '6':
+            print("Power Value is : ")
+
+        elif operator == '7':
+            print("Sin Value is : ")
+
+        elif operator == '8':
             print("Square Root is : ")
 
-        elif operator == '5':
+        elif operator == '9':
             print("Square Root is : ")
 
-        elif operator == '5':
-            print("Square Root is : ")
-
-        elif operator == '5':
-            print("Square Root is : ")
-            
     else:
         print("You Enterd Operation is Invalid Operation")
 
