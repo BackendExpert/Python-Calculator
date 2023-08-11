@@ -60,14 +60,26 @@ def main_cal():
             print("Subtraction is : ")
 
         elif operator == '3':
-            print("Subtraction is : ")
+            print("Multiplication is : ")
 
         elif operator == '4':
-            print("Subtraction is : ")  
+            print("Division is : ")  
 
         elif operator == '5':
-            print("Subtraction is : ")
+            print("Square Root is : ")
 
+        elif operator == '5':
+            print("Square Root is : ")
+
+        elif operator == '5':
+            print("Square Root is : ")
+
+        elif operator == '5':
+            print("Square Root is : ")
+
+        elif operator == '5':
+            print("Square Root is : ")
+            
     else:
         print("You Enterd Operation is Invalid Operation")
 
