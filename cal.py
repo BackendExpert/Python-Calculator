@@ -18,7 +18,7 @@ def squreRoot(a):
     return math.sqrt(a)
 
 def powerV(a, b):
-    return a ^ b
+    return math.pow(a,b)
 
 
 
