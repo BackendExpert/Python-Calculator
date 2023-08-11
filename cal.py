@@ -13,9 +13,9 @@ def main_cal():
     print("4. Division")
     print("5. Square Root")
     print("6. Power")
-    print("6. Power")
-    print("6. Power")
-    print("6. Power")
+    print("6. Sin")
+    print("6. Cos")
+    print("6. Tan")
 
     print("")
     print("--------------------------------------------------------------------")
