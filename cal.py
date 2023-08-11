@@ -75,10 +75,10 @@ def main_cal():
             print("Sin Value is : ")
 
         elif operator == '8':
-            print("Square Root is : ")
+            print("Cos Value is : ")
 
         elif operator == '9':
-            print("Square Root is : ")
+            print("Tan Value is : ")
 
     else:
         print("You Enterd Operation is Invalid Operation")
